@@ -1,0 +1,1 @@
+export const BUY_A_NEWCAKE="BUY_A_NEWCAKE"
